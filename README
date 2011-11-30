@@ -5,3 +5,6 @@ IsPrime() and associated functions are borrowed from http://librestats.wordpress
 Many Thanks for a useful set of code and saving me some coding time.  
 
 Currently Ulam.Spiral() only accepts odd integers. This parameter is the dimentions of the matrix that will hold the Ulam Spiral.
+
+
+Prime.Marker() accepts one parameter the name of the spiral created by Ulam.Spiral()
