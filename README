@@ -8,3 +8,6 @@ Currently Ulam.Spiral() only accepts odd integers. This parameter is the dimenti
 
 
 Prime.Marker() accepts one parameter the name of the spiral created by Ulam.Spiral()
+
+
+![Ulam Spiral](https://github.com/jofusa/ulam-spirals-R/blob/master/Ulam201.png)
